@@ -27,7 +27,7 @@ APP_TITLE = "🎓 Indira University SOIT AI Chatbot"
 APP_SUBTITLE = "School of Information Technology (SOIT), Pune — Official Student AI Platform"
 APP_VERSION = "1.0.0"
 DEFAULT_MODEL = "gemini-3.6-flash"
-FALLBACK_MODELS = ["gemini-2.5-flash"]
+FALLBACK_MODELS = []
 
 RESPONSE_MODES = {
     "Balanced": "Clear, direct university explanation with key guidelines.",
